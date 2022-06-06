@@ -5,7 +5,7 @@ import igniteLogo from '../../assets/icons/Ignite-simbol.svg'
 export function Header() {
   return (
     <header className={styles.header}>
-      <img src={igniteLogo} alt='logotipo do Projeto' />
+      <img src={igniteLogo} alt='LogoTipo do Projeto' />
       <span>Ignite Feed</span>
     </header>
   );
